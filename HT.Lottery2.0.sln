@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HT.Lottery2.0", "HT.Lottery2.0\HT.Lottery2.0.csproj", "{9B90B8D2-A52C-4632-AE4F-38944516C9E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HT.Lottery2.0.Tests", "HT.Lottery2.0.Tests\HT.Lottery2.0.Tests.csproj", "{E5D358FE-A66D-457C-A675-6EE43D061293}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B90B8D2-A52C-4632-AE4F-38944516C9E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B90B8D2-A52C-4632-AE4F-38944516C9E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B90B8D2-A52C-4632-AE4F-38944516C9E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B90B8D2-A52C-4632-AE4F-38944516C9E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5D358FE-A66D-457C-A675-6EE43D061293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5D358FE-A66D-457C-A675-6EE43D061293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5D358FE-A66D-457C-A675-6EE43D061293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5D358FE-A66D-457C-A675-6EE43D061293}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
